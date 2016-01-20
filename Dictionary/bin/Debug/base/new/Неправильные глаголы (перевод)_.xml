@@ -1,0 +1,404 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary id="1" id_user="1" name="Неправильные глаголы (перевод)" opened="true">
+
+   <Word>
+<Source>arise</Source>
+<Translate>подниматься</Translate>
+</Word>
+   <Word>
+<Source>be</Source>
+<Translate>быть, являться</Translate>
+</Word>
+   <Word>
+<Source>bear</Source>
+<Translate>родить</Translate>
+</Word>
+   <Word>
+<Source>become</Source>
+<Translate>сделаться, стать</Translate>
+</Word>
+   <Word>
+<Source>begin</Source>
+<Translate>начинать(-ся)</Translate>
+</Word>
+   <Word>
+<Source>bend</Source>
+<Translate>гнуть</Translate>
+</Word>
+   <Word>
+<Source>bind</Source>
+<Translate>связывать</Translate>
+</Word>
+   <Word>
+<Source>bite</Source>
+<Translate>кусать(-ся)</Translate>
+</Word>
+   <Word>
+<Source>bleed</Source>
+<Translate>истекать кровью</Translate>
+</Word>
+   <Word>
+<Source>blow</Source>
+<Translate>дуть</Translate>
+</Word>
+   <Word>
+<Source>break</Source>
+<Translate>ломать(-ся)</Translate>
+</Word>
+   <Word>
+<Source>breed</Source>
+<Translate>воспитывать</Translate>
+</Word>
+   <Word>
+<Source>bring</Source>
+<Translate>приносить</Translate>
+</Word>
+   <Word>
+<Source>build</Source>
+<Translate>строить</Translate>
+</Word>
+   <Word>
+<Source>burn</Source>
+<Translate>гореть, жечь</Translate>
+</Word>
+   <Word>
+<Source>buy</Source>
+<Translate>покупать</Translate>
+</Word>
+   <Word>
+<Source>cast</Source>
+<Translate>кидать</Translate>
+</Word>
+   <Word>
+<Source>catch</Source>
+<Translate>ловить, схватывать</Translate>
+</Word>
+   <Word>
+<Source>choose</Source>
+<Translate>выбирать</Translate>
+</Word>
+   <Word>
+<Source>come</Source>
+<Translate>приходить</Translate>
+</Word>
+   <Word>
+<Source>cost</Source>
+<Translate>стоить</Translate>
+</Word>
+   <Word>
+<Source>cut</Source>
+<Translate>резать</Translate>
+</Word>
+   <Word>
+<Source>dig</Source>
+<Translate>рыть, копать</Translate>
+</Word>
+   <Word>
+<Source>do</Source>
+<Translate>делать</Translate>
+</Word>
+   <Word>
+<Source>draw</Source>
+<Translate>тащить; рисовать</Translate>
+</Word>
+   <Word>
+<Source>dream</Source>
+<Translate>мечтать; видеть во сне</Translate>
+</Word>
+   <Word>
+<Source>drink</Source>
+<Translate>пить</Translate>
+</Word>
+   <Word>
+<Source>drive</Source>
+<Translate>вести, гнать</Translate>
+</Word>
+   <Word>
+<Source>eat</Source>
+<Translate>есть, кушать</Translate>
+</Word>
+   <Word>
+<Source>fall</Source>
+<Translate>падать</Translate>
+</Word>
+   <Word>
+<Source>feed</Source>
+<Translate>кормить</Translate>
+</Word>
+   <Word>
+<Source>feel</Source>
+<Translate>чувствовать</Translate>
+</Word>
+   <Word>
+<Source>fight</Source>
+<Translate>бороться, сражаться</Translate>
+</Word>
+   <Word>
+<Source>find</Source>
+<Translate>находить</Translate>
+</Word>
+   <Word>
+<Source>flee</Source>
+<Translate>бежать; спасаться</Translate>
+</Word>
+   <Word>
+<Source>fly</Source>
+<Translate>летать</Translate>
+</Word>
+   <Word>
+<Source>forget</Source>
+<Translate>забывать</Translate>
+</Word>
+   <Word>
+<Source>get</Source>
+<Translate>получать; становиться</Translate>
+</Word>
+   <Word>
+<Source>give</Source>
+<Translate>давать</Translate>
+</Word>
+   <Word>
+<Source>go</Source>
+<Translate>идти, ходить</Translate>
+</Word>
+   <Word>
+<Source>grow</Source>
+<Translate>расти, становиться</Translate>
+</Word>
+   <Word>
+<Source>hang</Source>
+<Translate>вешать, висеть</Translate>
+</Word>
+   <Word>
+<Source>have</Source>
+<Translate>иметь</Translate>
+</Word>
+   <Word>
+<Source>hear</Source>
+<Translate>слышать</Translate>
+</Word>
+   <Word>
+<Source>hide</Source>
+<Translate>прятать</Translate>
+</Word>
+   <Word>
+<Source>hold</Source>
+<Translate>держать</Translate>
+</Word>
+   <Word>
+<Source>keep</Source>
+<Translate>держать, хранить</Translate>
+</Word>
+   <Word>
+<Source>know</Source>
+<Translate>знать</Translate>
+</Word>
+   <Word>
+<Source>lead</Source>
+<Translate>вести</Translate>
+</Word>
+   <Word>
+<Source>learn</Source>
+<Translate>учить(ся)</Translate>
+</Word>
+   <Word>
+<Source>leave</Source>
+<Translate>оставлять, покидать</Translate>
+</Word>
+   <Word>
+<Source>lend</Source>
+<Translate>давать взаймы</Translate>
+</Word>
+   <Word>
+<Source>let</Source>
+<Translate>позволять</Translate>
+</Word>
+   <Word>
+<Source>light</Source>
+<Translate>зажигать</Translate>
+</Word>
+   <Word>
+<Source>lose</Source>
+<Translate>терять, проигрывать</Translate>
+</Word>
+   <Word>
+<Source>make</Source>
+<Translate>делать</Translate>
+</Word>
+   <Word>
+<Source>mean</Source>
+<Translate>значить</Translate>
+</Word>
+   <Word>
+<Source>meet</Source>
+<Translate>встречать</Translate>
+</Word>
+   <Word>
+<Source>put</Source>
+<Translate>класть</Translate>
+</Word>
+   <Word>
+<Source>read</Source>
+<Translate>читать</Translate>
+</Word>
+   <Word>
+<Source>ride</Source>
+<Translate>ездить верхом</Translate>
+</Word>
+   <Word>
+<Source>rise</Source>
+<Translate>подниматься</Translate>
+</Word>
+   <Word>
+<Source>run</Source>
+<Translate>бежать</Translate>
+</Word>
+   <Word>
+<Source>say</Source>
+<Translate>сказать</Translate>
+</Word>
+   <Word>
+<Source>see</Source>
+<Translate>видеть</Translate>
+</Word>
+   <Word>
+<Source>sell</Source>
+<Translate>продавать</Translate>
+</Word>
+   <Word>
+<Source>send</Source>
+<Translate>посылать</Translate>
+</Word>
+   <Word>
+<Source>set</Source>
+<Translate>помещать; устанавливать</Translate>
+</Word>
+   <Word>
+<Source>shake</Source>
+<Translate>трясти</Translate>
+</Word>
+   <Word>
+<Source>shine</Source>
+<Translate>сиять, блестеть</Translate>
+</Word>
+   <Word>
+<Source>shoot</Source>
+<Translate>стрелять</Translate>
+</Word>
+   <Word>
+<Source>shut</Source>
+<Translate>закрывать</Translate>
+</Word>
+   <Word>
+<Source>sing</Source>
+<Translate>петь</Translate>
+</Word>
+   <Word>
+<Source>sink</Source>
+<Translate>погружаться</Translate>
+</Word>
+   <Word>
+<Source>sit</Source>
+<Translate>сидеть</Translate>
+</Word>
+   <Word>
+<Source>sleep</Source>
+<Translate>спать</Translate>
+</Word>
+   <Word>
+<Source>smell</Source>
+<Translate>нюхать, пахнуть</Translate>
+</Word>
+   <Word>
+<Source>speak</Source>
+<Translate>говорить</Translate>
+</Word>
+   <Word>
+<Source>spend</Source>
+<Translate>тратить</Translate>
+</Word>
+   <Word>
+<Source>spoil</Source>
+<Translate>портить</Translate>
+</Word>
+   <Word>
+<Source>spread</Source>
+<Translate>распространять</Translate>
+</Word>
+   <Word>
+<Source>spring</Source>
+<Translate>прыгать</Translate>
+</Word>
+   <Word>
+<Source>stand</Source>
+<Translate>стоять</Translate>
+</Word>
+   <Word>
+<Source>steal</Source>
+<Translate>красть; похищать</Translate>
+</Word>
+   <Word>
+<Source>strike</Source>
+<Translate>ударять</Translate>
+</Word>
+   <Word>
+<Source>strive</Source>
+<Translate>бороться</Translate>
+</Word>
+   <Word>
+<Source>swear</Source>
+<Translate>клясться</Translate>
+</Word>
+   <Word>
+<Source>swim</Source>
+<Translate>плавать</Translate>
+</Word>
+   <Word>
+<Source>take</Source>
+<Translate>брать</Translate>
+</Word>
+   <Word>
+<Source>teach</Source>
+<Translate>обучать</Translate>
+</Word>
+   <Word>
+<Source>tear</Source>
+<Translate>разрывать, рвать</Translate>
+</Word>
+   <Word>
+<Source>tell</Source>
+<Translate>сказать</Translate>
+</Word>
+   <Word>
+<Source>think</Source>
+<Translate>думать</Translate>
+</Word>
+   <Word>
+<Source>throw</Source>
+<Translate>бросать</Translate>
+</Word>
+   <Word>
+<Source>understand</Source>
+<Translate>понимать</Translate>
+</Word>
+   <Word>
+<Source>wear</Source>
+<Translate>носить, изнашивать</Translate>
+</Word>
+   <Word>
+<Source>weep</Source>
+<Translate>плакать</Translate>
+</Word>
+   <Word>
+<Source>win</Source>
+<Translate>выигрывать, побеждать</Translate>
+</Word>
+   <Word>
+<Source>wind</Source>
+<Translate>крутить, заводить (часы)</Translate>
+</Word>
+   <Word>
+<Source>write</Source>
+<Translate>писать</Translate>
+</Word>
+</Dictionary>

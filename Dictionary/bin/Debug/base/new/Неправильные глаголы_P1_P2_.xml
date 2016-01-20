@@ -1,0 +1,805 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary id="1" id_user="1" name="Неправильные глаголы (причастие 1,2)" opened="true">
+ 
+   <Word>
+<Source>arose</Source>
+<Translate>arise (participle I)</Translate>
+</Word>
+<Word>
+<Source>arisen</Source>
+<Translate>arise (participle II)</Translate>
+</Word>
+   <Word>
+<Source>was, were</Source>
+<Translate>be (participle I)</Translate>
+</Word>
+<Word>
+<Source>been</Source>
+<Translate>be (participle II)</Translate>
+</Word>
+   <Word>
+<Source>bore</Source>
+<Translate>bear (participle I)</Translate>
+</Word>
+<Word>
+<Source>born</Source>
+<Translate>bear (participle II)</Translate>
+</Word>
+   <Word>
+<Source>became</Source>
+<Translate>become (participle I)</Translate>
+</Word>
+<Word>
+<Source>become</Source>
+<Translate>become (participle II)</Translate>
+</Word>
+   <Word>
+<Source>began</Source>
+<Translate>begin (participle I)</Translate>
+</Word>
+<Word>
+<Source>begun</Source>
+<Translate>begin (participle II)</Translate>
+</Word>
+   <Word>
+<Source>bent</Source>
+<Translate>bend (participle I)</Translate>
+</Word>
+<Word>
+<Source>bent</Source>
+<Translate>bend (participle II)</Translate>
+</Word>
+   <Word>
+<Source>bound</Source>
+<Translate>bind (participle I)</Translate>
+</Word>
+<Word>
+<Source>bound</Source>
+<Translate>bind (participle II)</Translate>
+</Word>
+   <Word>
+<Source>bit</Source>
+<Translate>bite (participle I)</Translate>
+</Word>
+<Word>
+<Source>bit</Source>
+<Translate>bite (participle II)</Translate>
+</Word>
+   <Word>
+<Source>bled</Source>
+<Translate>bleed (participle I)</Translate>
+</Word>
+<Word>
+<Source>bled</Source>
+<Translate>bleed (participle II)</Translate>
+</Word>
+   <Word>
+<Source>blew</Source>
+<Translate>blow (participle I)</Translate>
+</Word>
+<Word>
+<Source>blown</Source>
+<Translate>blow (participle II)</Translate>
+</Word>
+   <Word>
+<Source>broke</Source>
+<Translate>break (participle I)</Translate>
+</Word>
+<Word>
+<Source>broken</Source>
+<Translate>break (participle II)</Translate>
+</Word>
+   <Word>
+<Source>bred</Source>
+<Translate>breed (participle I)</Translate>
+</Word>
+<Word>
+<Source>bred</Source>
+<Translate>breed (participle II)</Translate>
+</Word>
+   <Word>
+<Source>brought</Source>
+<Translate>bring (participle I)</Translate>
+</Word>
+<Word>
+<Source>brought</Source>
+<Translate>bring (participle II)</Translate>
+</Word>
+   <Word>
+<Source>built</Source>
+<Translate>build (participle I)</Translate>
+</Word>
+<Word>
+<Source>built</Source>
+<Translate>build (participle II)</Translate>
+</Word>
+   <Word>
+<Source>burnt</Source>
+<Translate>burn (participle I)</Translate>
+</Word>
+<Word>
+<Source>burnt</Source>
+<Translate>burn (participle II)</Translate>
+</Word>
+   <Word>
+<Source>bought</Source>
+<Translate>buy (participle I)</Translate>
+</Word>
+<Word>
+<Source>bought</Source>
+<Translate>buy (participle II)</Translate>
+</Word>
+   <Word>
+<Source>cast</Source>
+<Translate>cast (participle I)</Translate>
+</Word>
+<Word>
+<Source>cast</Source>
+<Translate>cast (participle II)</Translate>
+</Word>
+   <Word>
+<Source>caught</Source>
+<Translate>catch (participle I)</Translate>
+</Word>
+<Word>
+<Source>caught</Source>
+<Translate>catch (participle II)</Translate>
+</Word>
+   <Word>
+<Source>chose</Source>
+<Translate>choose (participle I)</Translate>
+</Word>
+<Word>
+<Source>chosen</Source>
+<Translate>choose (participle II)</Translate>
+</Word>
+   <Word>
+<Source>came</Source>
+<Translate>come (participle I)</Translate>
+</Word>
+<Word>
+<Source>come</Source>
+<Translate>come (participle II)</Translate>
+</Word>
+   <Word>
+<Source>cost</Source>
+<Translate>cost (participle I)</Translate>
+</Word>
+<Word>
+<Source>cost</Source>
+<Translate>cost (participle II)</Translate>
+</Word>
+   <Word>
+<Source>cut</Source>
+<Translate>cut (participle I)</Translate>
+</Word>
+<Word>
+<Source>cut</Source>
+<Translate>cut (participle II)</Translate>
+</Word>
+   <Word>
+<Source>dug</Source>
+<Translate>dig (participle I)</Translate>
+</Word>
+<Word>
+<Source>dug</Source>
+<Translate>dig (participle II)</Translate>
+</Word>
+   <Word>
+<Source>did</Source>
+<Translate>do (participle I)</Translate>
+</Word>
+<Word>
+<Source>done</Source>
+<Translate>do (participle II)</Translate>
+</Word>
+   <Word>
+<Source>drew</Source>
+<Translate>draw (participle I)</Translate>
+</Word>
+<Word>
+<Source>drawn</Source>
+<Translate>draw (participle II)</Translate>
+</Word>
+   <Word>
+<Source>dreamt</Source>
+<Translate>dream (participle I)</Translate>
+</Word>
+<Word>
+<Source>dreamt</Source>
+<Translate>dream (participle II)</Translate>
+</Word>
+   <Word>
+<Source>drank</Source>
+<Translate>drink (participle I)</Translate>
+</Word>
+<Word>
+<Source>drunk</Source>
+<Translate>drink (participle II)</Translate>
+</Word>
+   <Word>
+<Source>drove</Source>
+<Translate>drive (participle I)</Translate>
+</Word>
+<Word>
+<Source>driven</Source>
+<Translate>drive (participle II)</Translate>
+</Word>
+   <Word>
+<Source>ate</Source>
+<Translate>eat (participle I)</Translate>
+</Word>
+<Word>
+<Source>eaten</Source>
+<Translate>eat (participle II)</Translate>
+</Word>
+   <Word>
+<Source>fell</Source>
+<Translate>fall (participle I)</Translate>
+</Word>
+<Word>
+<Source>fallen</Source>
+<Translate>fall (participle II)</Translate>
+</Word>
+   <Word>
+<Source>fed</Source>
+<Translate>feed (participle I)</Translate>
+</Word>
+<Word>
+<Source>fed</Source>
+<Translate>feed (participle II)</Translate>
+</Word>
+   <Word>
+<Source>felt</Source>
+<Translate>feel (participle I)</Translate>
+</Word>
+<Word>
+<Source>felt</Source>
+<Translate>feel (participle II)</Translate>
+</Word>
+   <Word>
+<Source>fought</Source>
+<Translate>fight (participle I)</Translate>
+</Word>
+<Word>
+<Source>fought</Source>
+<Translate>fight (participle II)</Translate>
+</Word>
+   <Word>
+<Source>found</Source>
+<Translate>find (participle I)</Translate>
+</Word>
+<Word>
+<Source>found</Source>
+<Translate>find (participle II)</Translate>
+</Word>
+   <Word>
+<Source>fled</Source>
+<Translate>flee (participle I)</Translate>
+</Word>
+<Word>
+<Source>fled</Source>
+<Translate>flee (participle II)</Translate>
+</Word>
+   <Word>
+<Source>flew</Source>
+<Translate>fly (participle I)</Translate>
+</Word>
+<Word>
+<Source>flown</Source>
+<Translate>fly (participle II)</Translate>
+</Word>
+   <Word>
+<Source>forgot</Source>
+<Translate>forget (participle I)</Translate>
+</Word>
+<Word>
+<Source>forgotten</Source>
+<Translate>forget (participle II)</Translate>
+</Word>
+   <Word>
+<Source>got</Source>
+<Translate>get (participle I)</Translate>
+</Word>
+<Word>
+<Source>got</Source>
+<Translate>get (participle II)</Translate>
+</Word>
+   <Word>
+<Source>gave</Source>
+<Translate>give (participle I)</Translate>
+</Word>
+<Word>
+<Source>given</Source>
+<Translate>give (participle II)</Translate>
+</Word>
+   <Word>
+<Source>went</Source>
+<Translate>go (participle I)</Translate>
+</Word>
+<Word>
+<Source>gone</Source>
+<Translate>go (participle II)</Translate>
+</Word>
+   <Word>
+<Source>grew</Source>
+<Translate>grow (participle I)</Translate>
+</Word>
+<Word>
+<Source>grown</Source>
+<Translate>grow (participle II)</Translate>
+</Word>
+   <Word>
+<Source>hung</Source>
+<Translate>hang (participle I)</Translate>
+</Word>
+<Word>
+<Source>hung</Source>
+<Translate>hang (participle II)</Translate>
+</Word>
+   <Word>
+<Source>had</Source>
+<Translate>have (participle I)</Translate>
+</Word>
+<Word>
+<Source>had</Source>
+<Translate>have (participle II)</Translate>
+</Word>
+   <Word>
+<Source>heard</Source>
+<Translate>hear (participle I)</Translate>
+</Word>
+<Word>
+<Source>heard</Source>
+<Translate>hear (participle II)</Translate>
+</Word>
+   <Word>
+<Source>hid</Source>
+<Translate>hide (participle I)</Translate>
+</Word>
+<Word>
+<Source>hidden</Source>
+<Translate>hide (participle II)</Translate>
+</Word>
+   <Word>
+<Source>held</Source>
+<Translate>hold (participle I)</Translate>
+</Word>
+<Word>
+<Source>held</Source>
+<Translate>hold (participle II)</Translate>
+</Word>
+   <Word>
+<Source>kept</Source>
+<Translate>keep (participle I)</Translate>
+</Word>
+<Word>
+<Source>kept</Source>
+<Translate>keep (participle II)</Translate>
+</Word>
+   <Word>
+<Source>knew</Source>
+<Translate>know (participle I)</Translate>
+</Word>
+<Word>
+<Source>known</Source>
+<Translate>know (participle II)</Translate>
+</Word>
+   <Word>
+<Source>led</Source>
+<Translate>lead (participle I)</Translate>
+</Word>
+<Word>
+<Source>led</Source>
+<Translate>lead (participle II)</Translate>
+</Word>
+   <Word>
+<Source>learnt</Source>
+<Translate>learn (participle I)</Translate>
+</Word>
+<Word>
+<Source>learnt</Source>
+<Translate>learn (participle II)</Translate>
+</Word>
+   <Word>
+<Source>left</Source>
+<Translate>leave (participle I)</Translate>
+</Word>
+<Word>
+<Source>left</Source>
+<Translate>leave (participle II)</Translate>
+</Word>
+   <Word>
+<Source>lent</Source>
+<Translate>lend (participle I)</Translate>
+</Word>
+<Word>
+<Source>lent</Source>
+<Translate>lend (participle II)</Translate>
+</Word>
+   <Word>
+<Source>let</Source>
+<Translate>let (participle I)</Translate>
+</Word>
+<Word>
+<Source>let</Source>
+<Translate>let (participle II)</Translate>
+</Word>
+   <Word>
+<Source>lit</Source>
+<Translate>light (participle I)</Translate>
+</Word>
+<Word>
+<Source>lit</Source>
+<Translate>light (participle II)</Translate>
+</Word>
+   <Word>
+<Source>lost</Source>
+<Translate>lose (participle I)</Translate>
+</Word>
+<Word>
+<Source>lost</Source>
+<Translate>lose (participle II)</Translate>
+</Word>
+   <Word>
+<Source>made</Source>
+<Translate>make (participle I)</Translate>
+</Word>
+<Word>
+<Source>made</Source>
+<Translate>make (participle II)</Translate>
+</Word>
+   <Word>
+<Source>meant</Source>
+<Translate>mean (participle I)</Translate>
+</Word>
+<Word>
+<Source>meant</Source>
+<Translate>mean (participle II)</Translate>
+</Word>
+   <Word>
+<Source>met</Source>
+<Translate>meet (participle I)</Translate>
+</Word>
+<Word>
+<Source>met</Source>
+<Translate>meet (participle II)</Translate>
+</Word>
+   <Word>
+<Source>put</Source>
+<Translate>put (participle I)</Translate>
+</Word>
+<Word>
+<Source>put</Source>
+<Translate>put (participle II)</Translate>
+</Word>
+   <Word>
+<Source>read</Source>
+<Translate>read (participle I)</Translate>
+</Word>
+<Word>
+<Source>read</Source>
+<Translate>read (participle II)</Translate>
+</Word>
+   <Word>
+<Source>rode</Source>
+<Translate>ride (participle I)</Translate>
+</Word>
+<Word>
+<Source>ridden</Source>
+<Translate>ride (participle II)</Translate>
+</Word>
+   <Word>
+<Source>rose</Source>
+<Translate>rise (participle I)</Translate>
+</Word>
+<Word>
+<Source>risen</Source>
+<Translate>rise (participle II)</Translate>
+</Word>
+   <Word>
+<Source>ran</Source>
+<Translate>run (participle I)</Translate>
+</Word>
+<Word>
+<Source>run</Source>
+<Translate>run (participle II)</Translate>
+</Word>
+   <Word>
+<Source>said</Source>
+<Translate>say (participle I)</Translate>
+</Word>
+<Word>
+<Source>said</Source>
+<Translate>say (participle II)</Translate>
+</Word>
+   <Word>
+<Source>saw</Source>
+<Translate>see (participle I)</Translate>
+</Word>
+<Word>
+<Source>seen</Source>
+<Translate>see (participle II)</Translate>
+</Word>
+   <Word>
+<Source>sold</Source>
+<Translate>sell (participle I)</Translate>
+</Word>
+<Word>
+<Source>sold</Source>
+<Translate>sell (participle II)</Translate>
+</Word>
+   <Word>
+<Source>sent</Source>
+<Translate>send (participle I)</Translate>
+</Word>
+<Word>
+<Source>sent</Source>
+<Translate>send (participle II)</Translate>
+</Word>
+   <Word>
+<Source>set</Source>
+<Translate>set (participle I)</Translate>
+</Word>
+<Word>
+<Source>set</Source>
+<Translate>set (participle II)</Translate>
+</Word>
+   <Word>
+<Source>shook</Source>
+<Translate>shake (participle I)</Translate>
+</Word>
+<Word>
+<Source>shaken</Source>
+<Translate>shake (participle II)</Translate>
+</Word>
+   <Word>
+<Source>shone</Source>
+<Translate>shine (participle I)</Translate>
+</Word>
+<Word>
+<Source>shone</Source>
+<Translate>shine (participle II)</Translate>
+</Word>
+   <Word>
+<Source>shot</Source>
+<Translate>shoot (participle I)</Translate>
+</Word>
+<Word>
+<Source>shot</Source>
+<Translate>shoot (participle II)</Translate>
+</Word>
+   <Word>
+<Source>shut</Source>
+<Translate>shut (participle I)</Translate>
+</Word>
+<Word>
+<Source>shut</Source>
+<Translate>shut (participle II)</Translate>
+</Word>
+   <Word>
+<Source>sang</Source>
+<Translate>sing (participle I)</Translate>
+</Word>
+<Word>
+<Source>sung</Source>
+<Translate>sing (participle II)</Translate>
+</Word>
+   <Word>
+<Source>sank</Source>
+<Translate>sink (participle I)</Translate>
+</Word>
+<Word>
+<Source>sunk</Source>
+<Translate>sink (participle II)</Translate>
+</Word>
+   <Word>
+<Source>sat</Source>
+<Translate>sit (participle I)</Translate>
+</Word>
+<Word>
+<Source>sat</Source>
+<Translate>sit (participle II)</Translate>
+</Word>
+   <Word>
+<Source>slept</Source>
+<Translate>sleep (participle I)</Translate>
+</Word>
+<Word>
+<Source>slept</Source>
+<Translate>sleep (participle II)</Translate>
+</Word>
+   <Word>
+<Source>smelt</Source>
+<Translate>smell (participle I)</Translate>
+</Word>
+<Word>
+<Source>smelt</Source>
+<Translate>smell (participle II)</Translate>
+</Word>
+   <Word>
+<Source>spoke</Source>
+<Translate>speak (participle I)</Translate>
+</Word>
+<Word>
+<Source>spoken</Source>
+<Translate>speak (participle II)</Translate>
+</Word>
+   <Word>
+<Source>spent</Source>
+<Translate>spend (participle I)</Translate>
+</Word>
+<Word>
+<Source>spent</Source>
+<Translate>spend (participle II)</Translate>
+</Word>
+   <Word>
+<Source>spoilt</Source>
+<Translate>spoil (participle I)</Translate>
+</Word>
+<Word>
+<Source>spoilt</Source>
+<Translate>spoil (participle II)</Translate>
+</Word>
+   <Word>
+<Source>spread</Source>
+<Translate>spread (participle I)</Translate>
+</Word>
+<Word>
+<Source>spread</Source>
+<Translate>spread (participle II)</Translate>
+</Word>
+   <Word>
+<Source>sprang</Source>
+<Translate>spring (participle I)</Translate>
+</Word>
+<Word>
+<Source>sprung</Source>
+<Translate>spring (participle II)</Translate>
+</Word>
+   <Word>
+<Source>stood</Source>
+<Translate>stand (participle I)</Translate>
+</Word>
+<Word>
+<Source>stood</Source>
+<Translate>stand (participle II)</Translate>
+</Word>
+   <Word>
+<Source>stole</Source>
+<Translate>steal (participle I)</Translate>
+</Word>
+<Word>
+<Source>stolen</Source>
+<Translate>steal (participle II)</Translate>
+</Word>
+   <Word>
+<Source>struck</Source>
+<Translate>strike (participle I)</Translate>
+</Word>
+<Word>
+<Source>struck</Source>
+<Translate>strike (participle II)</Translate>
+</Word>
+   <Word>
+<Source>strove</Source>
+<Translate>strive (participle I)</Translate>
+</Word>
+<Word>
+<Source>striven</Source>
+<Translate>strive (participle II)</Translate>
+</Word>
+   <Word>
+<Source>swore</Source>
+<Translate>swear (participle I)</Translate>
+</Word>
+<Word>
+<Source>sworn</Source>
+<Translate>swear (participle II)</Translate>
+</Word>
+   <Word>
+<Source>swam</Source>
+<Translate>swim (participle I)</Translate>
+</Word>
+<Word>
+<Source>swum</Source>
+<Translate>swim (participle II)</Translate>
+</Word>
+   <Word>
+<Source>took</Source>
+<Translate>take (participle I)</Translate>
+</Word>
+<Word>
+<Source>taken</Source>
+<Translate>take (participle II)</Translate>
+</Word>
+   <Word>
+<Source>taught</Source>
+<Translate>teach (participle I)</Translate>
+</Word>
+<Word>
+<Source>taught</Source>
+<Translate>teach (participle II)</Translate>
+</Word>
+   <Word>
+<Source>tore</Source>
+<Translate>tear (participle I)</Translate>
+</Word>
+<Word>
+<Source>torn</Source>
+<Translate>tear (participle II)</Translate>
+</Word>
+   <Word>
+<Source>told</Source>
+<Translate>tell (participle I)</Translate>
+</Word>
+<Word>
+<Source>told</Source>
+<Translate>tell (participle II)</Translate>
+</Word>
+   <Word>
+<Source>thought</Source>
+<Translate>think (participle I)</Translate>
+</Word>
+<Word>
+<Source>thought</Source>
+<Translate>think (participle II)</Translate>
+</Word>
+   <Word>
+<Source>threw</Source>
+<Translate>throw (participle I)</Translate>
+</Word>
+<Word>
+<Source>thrown</Source>
+<Translate>throw (participle II)</Translate>
+</Word>
+   <Word>
+<Source>understood</Source>
+<Translate>understand (participle I)</Translate>
+</Word>
+<Word>
+<Source>understood</Source>
+<Translate>understand (participle II)</Translate>
+</Word>
+   <Word>
+<Source>wore</Source>
+<Translate>wear (participle I)</Translate>
+</Word>
+<Word>
+<Source>worn</Source>
+<Translate>wear (participle II)</Translate>
+</Word>
+   <Word>
+<Source>wept</Source>
+<Translate>weep (participle I)</Translate>
+</Word>
+<Word>
+<Source>wept</Source>
+<Translate>weep (participle II)</Translate>
+</Word>
+   <Word>
+<Source>won</Source>
+<Translate>win (participle I)</Translate>
+</Word>
+<Word>
+<Source>won</Source>
+<Translate>win (participle II)</Translate>
+</Word>
+   <Word>
+<Source>wound</Source>
+<Translate>wind (participle I)</Translate>
+</Word>
+<Word>
+<Source>wound</Source>
+<Translate>wind (participle II)</Translate>
+</Word>
+   <Word>
+<Source>wrote</Source>
+<Translate>write (participle I)</Translate>
+</Word>
+<Word>
+<Source>written</Source>
+<Translate>write (participle II)</Translate>
+</Word>
+
+</Dictionary>

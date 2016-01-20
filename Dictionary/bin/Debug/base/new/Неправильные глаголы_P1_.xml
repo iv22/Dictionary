@@ -1,0 +1,403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Dictionary id="1" id_user="1" name="Новый словарь" opened="true">
+   <Word>
+<Source>arise</Source>
+<Translate>arose</Translate>
+</Word>
+   <Word>
+<Source>be</Source>
+<Translate>was, were</Translate>
+</Word>
+   <Word>
+<Source>bear</Source>
+<Translate>bore</Translate>
+</Word>
+   <Word>
+<Source>become</Source>
+<Translate>became</Translate>
+</Word>
+   <Word>
+<Source>begin</Source>
+<Translate>began</Translate>
+</Word>
+   <Word>
+<Source>bend</Source>
+<Translate>bent</Translate>
+</Word>
+   <Word>
+<Source>bind</Source>
+<Translate>bound</Translate>
+</Word>
+   <Word>
+<Source>bite</Source>
+<Translate>bit</Translate>
+</Word>
+   <Word>
+<Source>bleed</Source>
+<Translate>bled</Translate>
+</Word>
+   <Word>
+<Source>blow</Source>
+<Translate>blew</Translate>
+</Word>
+   <Word>
+<Source>break</Source>
+<Translate>broke</Translate>
+</Word>
+   <Word>
+<Source>breed</Source>
+<Translate>bred</Translate>
+</Word>
+   <Word>
+<Source>bring</Source>
+<Translate>brought</Translate>
+</Word>
+   <Word>
+<Source>build</Source>
+<Translate>built</Translate>
+</Word>
+   <Word>
+<Source>burn</Source>
+<Translate>burnt</Translate>
+</Word>
+   <Word>
+<Source>buy</Source>
+<Translate>bought</Translate>
+</Word>
+   <Word>
+<Source>cast</Source>
+<Translate>cast</Translate>
+</Word>
+   <Word>
+<Source>catch</Source>
+<Translate>caught</Translate>
+</Word>
+   <Word>
+<Source>choose</Source>
+<Translate>chose</Translate>
+</Word>
+   <Word>
+<Source>come</Source>
+<Translate>came</Translate>
+</Word>
+   <Word>
+<Source>cost</Source>
+<Translate>cost</Translate>
+</Word>
+   <Word>
+<Source>cut</Source>
+<Translate>cut</Translate>
+</Word>
+   <Word>
+<Source>dig</Source>
+<Translate>dug</Translate>
+</Word>
+   <Word>
+<Source>do</Source>
+<Translate>did</Translate>
+</Word>
+   <Word>
+<Source>draw</Source>
+<Translate>drew</Translate>
+</Word>
+   <Word>
+<Source>dream</Source>
+<Translate>dreamt</Translate>
+</Word>
+   <Word>
+<Source>drink</Source>
+<Translate>drank</Translate>
+</Word>
+   <Word>
+<Source>drive</Source>
+<Translate>drove</Translate>
+</Word>
+   <Word>
+<Source>eat</Source>
+<Translate>ate</Translate>
+</Word>
+   <Word>
+<Source>fall</Source>
+<Translate>fell</Translate>
+</Word>
+   <Word>
+<Source>feed</Source>
+<Translate>fed</Translate>
+</Word>
+   <Word>
+<Source>feel</Source>
+<Translate>felt</Translate>
+</Word>
+   <Word>
+<Source>fight</Source>
+<Translate>fought</Translate>
+</Word>
+   <Word>
+<Source>find</Source>
+<Translate>found</Translate>
+</Word>
+   <Word>
+<Source>flee</Source>
+<Translate>fled</Translate>
+</Word>
+   <Word>
+<Source>fly</Source>
+<Translate>flew</Translate>
+</Word>
+   <Word>
+<Source>forget</Source>
+<Translate>forgot</Translate>
+</Word>
+   <Word>
+<Source>get</Source>
+<Translate>got</Translate>
+</Word>
+   <Word>
+<Source>give</Source>
+<Translate>gave</Translate>
+</Word>
+   <Word>
+<Source>go</Source>
+<Translate>went</Translate>
+</Word>
+   <Word>
+<Source>grow</Source>
+<Translate>grew</Translate>
+</Word>
+   <Word>
+<Source>hang</Source>
+<Translate>hung</Translate>
+</Word>
+   <Word>
+<Source>have</Source>
+<Translate>had</Translate>
+</Word>
+   <Word>
+<Source>hear</Source>
+<Translate>heard</Translate>
+</Word>
+   <Word>
+<Source>hide</Source>
+<Translate>hid</Translate>
+</Word>
+   <Word>
+<Source>hold</Source>
+<Translate>held</Translate>
+</Word>
+   <Word>
+<Source>keep</Source>
+<Translate>kept</Translate>
+</Word>
+   <Word>
+<Source>know</Source>
+<Translate>knew</Translate>
+</Word>
+   <Word>
+<Source>lead</Source>
+<Translate>led</Translate>
+</Word>
+   <Word>
+<Source>learn</Source>
+<Translate>learnt</Translate>
+</Word>
+   <Word>
+<Source>leave</Source>
+<Translate>left</Translate>
+</Word>
+   <Word>
+<Source>lend</Source>
+<Translate>lent</Translate>
+</Word>
+   <Word>
+<Source>let</Source>
+<Translate>let</Translate>
+</Word>
+   <Word>
+<Source>light</Source>
+<Translate>lit</Translate>
+</Word>
+   <Word>
+<Source>lose</Source>
+<Translate>lost</Translate>
+</Word>
+   <Word>
+<Source>make</Source>
+<Translate>made</Translate>
+</Word>
+   <Word>
+<Source>mean</Source>
+<Translate>meant</Translate>
+</Word>
+   <Word>
+<Source>meet</Source>
+<Translate>met</Translate>
+</Word>
+   <Word>
+<Source>put</Source>
+<Translate>put</Translate>
+</Word>
+   <Word>
+<Source>read</Source>
+<Translate>read</Translate>
+</Word>
+   <Word>
+<Source>ride</Source>
+<Translate>rode</Translate>
+</Word>
+   <Word>
+<Source>rise</Source>
+<Translate>rose</Translate>
+</Word>
+   <Word>
+<Source>run</Source>
+<Translate>ran</Translate>
+</Word>
+   <Word>
+<Source>say</Source>
+<Translate>said</Translate>
+</Word>
+   <Word>
+<Source>see</Source>
+<Translate>saw</Translate>
+</Word>
+   <Word>
+<Source>sell</Source>
+<Translate>sold</Translate>
+</Word>
+   <Word>
+<Source>send</Source>
+<Translate>sent</Translate>
+</Word>
+   <Word>
+<Source>set</Source>
+<Translate>set</Translate>
+</Word>
+   <Word>
+<Source>shake</Source>
+<Translate>shook</Translate>
+</Word>
+   <Word>
+<Source>shine</Source>
+<Translate>shone</Translate>
+</Word>
+   <Word>
+<Source>shoot</Source>
+<Translate>shot</Translate>
+</Word>
+   <Word>
+<Source>shut</Source>
+<Translate>shut</Translate>
+</Word>
+   <Word>
+<Source>sing</Source>
+<Translate>sang</Translate>
+</Word>
+   <Word>
+<Source>sink</Source>
+<Translate>sank</Translate>
+</Word>
+   <Word>
+<Source>sit</Source>
+<Translate>sat</Translate>
+</Word>
+   <Word>
+<Source>sleep</Source>
+<Translate>slept</Translate>
+</Word>
+   <Word>
+<Source>smell</Source>
+<Translate>smelt</Translate>
+</Word>
+   <Word>
+<Source>speak</Source>
+<Translate>spoke</Translate>
+</Word>
+   <Word>
+<Source>spend</Source>
+<Translate>spent</Translate>
+</Word>
+   <Word>
+<Source>spoil</Source>
+<Translate>spoilt</Translate>
+</Word>
+   <Word>
+<Source>spread</Source>
+<Translate>spread</Translate>
+</Word>
+   <Word>
+<Source>spring</Source>
+<Translate>sprang</Translate>
+</Word>
+   <Word>
+<Source>stand</Source>
+<Translate>stood</Translate>
+</Word>
+   <Word>
+<Source>steal</Source>
+<Translate>stole</Translate>
+</Word>
+   <Word>
+<Source>strike</Source>
+<Translate>struck</Translate>
+</Word>
+   <Word>
+<Source>strive</Source>
+<Translate>strove</Translate>
+</Word>
+   <Word>
+<Source>swear</Source>
+<Translate>swore</Translate>
+</Word>
+   <Word>
+<Source>swim</Source>
+<Translate>swam</Translate>
+</Word>
+   <Word>
+<Source>take</Source>
+<Translate>took</Translate>
+</Word>
+   <Word>
+<Source>teach</Source>
+<Translate>taught</Translate>
+</Word>
+   <Word>
+<Source>tear</Source>
+<Translate>tore</Translate>
+</Word>
+   <Word>
+<Source>tell</Source>
+<Translate>told</Translate>
+</Word>
+   <Word>
+<Source>think</Source>
+<Translate>thought</Translate>
+</Word>
+   <Word>
+<Source>throw</Source>
+<Translate>threw</Translate>
+</Word>
+   <Word>
+<Source>understand</Source>
+<Translate>understood</Translate>
+</Word>
+   <Word>
+<Source>wear</Source>
+<Translate>wore</Translate>
+</Word>
+   <Word>
+<Source>weep</Source>
+<Translate>wept</Translate>
+</Word>
+   <Word>
+<Source>win</Source>
+<Translate>won</Translate>
+</Word>
+   <Word>
+<Source>wind</Source>
+<Translate>wound</Translate>
+</Word>
+   <Word>
+<Source>write</Source>
+<Translate>wrote</Translate>
+</Word>
+</Dictionary>

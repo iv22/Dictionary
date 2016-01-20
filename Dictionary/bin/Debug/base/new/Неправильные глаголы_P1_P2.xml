@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="sddf_1_2.xsl"?>
+<Workbook xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet">
+ 
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s23"><Data ss:Type="String">arise</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">arose</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="String">arisen</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">be</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">was, were</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">been</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">bear</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">bore</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">born</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">become</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">became</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">become</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">begin</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">began</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">begun</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">bend</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">bent</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">bent</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">bind</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">bound</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">bound</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">bite</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">bit</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">bit</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">bleed</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">bled</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">bled</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">blow</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">blew</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">blown</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">break</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">broke</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">broken</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">breed</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">bred</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">bred</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">bring</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">brought</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">brought</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">build</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">built</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">built</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">burn</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">burnt</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">burnt</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">buy</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">bought</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">bought</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">cast</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">cast</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">cast</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">catch</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">caught</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">caught</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">choose</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">chose</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">chosen</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">come</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">came</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">come</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">cost</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">cost</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">cost</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">cut</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">cut</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">cut</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">dig</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">dug</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">dug</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">do</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">did</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">done</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">draw</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">drew</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">drawn</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">dream</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">dreamt</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">dreamt</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">drink</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">drank</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">drunk</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">drive</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">drove</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">driven</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">eat</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">ate</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">eaten</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">fall</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">fell</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">fallen</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">feed</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">fed</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">fed</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">feel</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">felt</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">felt</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">fight</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">fought</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">fought</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">find</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">found</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">found</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">flee</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">fled</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">fled</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">fly</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">flew</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">flown</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">forget</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">forgot</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">forgotten</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">get</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">got</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">got</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">give</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">gave</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">given</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">go</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">went</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">gone</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">grow</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">grew</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">grown</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">hang</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">hung</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">hung</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">have</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">had</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">had</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">hear</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">heard</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">heard</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">hide</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">hid</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">hidden</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">hold</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">held</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">held</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">keep</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">kept</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">kept</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">know</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">knew</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">known</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">lead</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">led</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">led</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">learn</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">learnt</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">learnt</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">leave</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">left</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">left</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">lend</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">lent</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">lent</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">let</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">let</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">let</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">light</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">lit</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">lit</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">lose</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">lost</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">lost</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">make</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">made</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">made</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">mean</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">meant</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">meant</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">meet</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">met</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">met</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">put</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">put</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">put</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">read</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">read</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">read</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">ride</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">rode</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">ridden</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">rise</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">rose</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">risen</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">run</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">ran</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">run</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">say</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">said</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">said</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">see</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">saw</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">seen</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">sell</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">sold</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">sold</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">send</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">sent</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">sent</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">set</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">set</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">set</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">shake</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">shook</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">shaken</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">shine</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">shone</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">shone</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">shoot</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">shot</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">shot</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">shut</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">shut</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">shut</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">sing</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">sang</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">sung</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">sink</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">sank</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">sunk</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">sit</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">sat</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">sat</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">sleep</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">slept</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">slept</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">smell</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">smelt</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">smelt</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">speak</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">spoke</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">spoken</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">spend</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">spent</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">spent</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">spoil</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">spoilt</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">spoilt</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">spread</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">spread</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">spread</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">spring</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">sprang</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">sprung</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">stand</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">stood</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">stood</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">steal</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">stole</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">stolen</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">strike</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">struck</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">struck</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">strive</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">strove</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">striven</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">swear</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">swore</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">sworn</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">swim</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">swam</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">swum</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">take</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">took</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">taken</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">teach</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">taught</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">taught</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tear</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">tore</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">torn</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">tell</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">told</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">told</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">think</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">thought</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">thought</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">throw</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">threw</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">thrown</Data></Cell>
+   </Row>
+   <Row ss:Height="30">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">understand</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">understood</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">understood</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wear</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">wore</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">worn</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">weep</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">wept</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">wept</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">win</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">won</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">won</Data></Cell>
+   </Row>
+   <Row ss:Height="15">
+    <Cell ss:StyleID="s24"><Data ss:Type="String">wind</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">wound</Data></Cell>
+    <Cell ss:StyleID="s29"><Data ss:Type="String">wound</Data></Cell>
+   </Row>
+   <Row ss:Height="30.75">
+    <Cell ss:StyleID="s25"><Data ss:Type="String">write</Data></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">wrote</Data></Cell>
+    <Cell ss:StyleID="s30"><Data ss:Type="String">written</Data></Cell>
+   </Row>
+
+</Workbook>
